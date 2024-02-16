@@ -10,7 +10,7 @@ This repository presents the findings of a thematic analysis conducted on an int
   - Visualizations generated from NVivo:
       ![Word Cloud](https://github.com/adnanthedataanalyst/NVivo_Successful-Transformation-Initiatives-Interview-Analysis/assets/152249280/b442b185-ae3f-4ed9-aabd-e9f65df6bdd2)
 
-- **YouTube Interview**: Access the interview directly on YouTube: [Interview on YouTube](https://www.youtube.com/watch?v=Kz5aoqhhc3k&t=798s)
+- **YouTube Interview**: Access the interview directly on YouTube: [Interview on YouTube](https://youtu.be/Kz5aoqhhc3k?si=X1w_k81-4hulHClD)
 
 ## Thematic Analysis Methodology:
 The thematic analysis was conducted using NVivo software, which facilitated the identification and categorization of recurring themes within the interview transcript. The analysis focused on two primary questions:

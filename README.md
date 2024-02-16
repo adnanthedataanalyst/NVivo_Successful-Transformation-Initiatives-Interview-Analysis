@@ -8,7 +8,8 @@ This repository presents the findings of a thematic analysis conducted on an int
 - **Analysis Results**: 
   - **Word Frequency Query Results**: This [(Word Frequency Query Results.xlsx)](https://github.com/adnanthedataanalyst/NVivo_Successful-Transformation-Initiatives-Interview-Analysis/blob/main/Word%20Frequency%20Query%20Results.xlsx) summarize the key themes identified in the interview, along with the exact words or phrases from the transcript that correspond to each theme and their frequency count.
   - Visualizations generated from NVivo:
-     ![All Qs](https://github.com/adnanthedataanalyst/NVivo_Successful-Transformation-Initiatives-Interview-Analysis/assets/152249280/d1aa33aa-d3ce-44c2-bcff-93c71dc0f1fc)
+      ![Word Cloud](https://github.com/adnanthedataanalyst/NVivo_Successful-Transformation-Initiatives-Interview-Analysis/assets/152249280/b442b185-ae3f-4ed9-aabd-e9f65df6bdd2)
+
 - **YouTube Interview**: Access the interview directly on YouTube: [Interview on YouTube](https://www.youtube.com/watch?v=Kz5aoqhhc3k&t=798s)
 
 ## Thematic Analysis Methodology:

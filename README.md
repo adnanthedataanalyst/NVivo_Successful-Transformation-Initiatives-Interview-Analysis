@@ -4,9 +4,9 @@
 This repository presents the findings of a thematic analysis conducted on an interview with Sense Corp experts regarding strategies for successfully delivering transformation initiatives. The interview panel consisted of Michael Danney, Kim Airman, Jeff Dixon, Chelsea Waldheim, and Ben Bythewood, each providing insights from their respective areas of expertise.
 
 ## Contents:
-- **Full Transcript**: The complete transcription of the interview is provided in the [file](Interview__How to Successfully Deliver Your Next Transformation Initiative.docx.)
+- **Full Transcript**: The complete transcription of the interview is provided in the [(Interview__How to Successfully Deliver Your Next Transformation Initiative.docx.)](https://github.com/adnanthedataanalyst/NVivo_Successful-Transformation-Initiatives-Interview-Analysis/blob/main/Interview__How%20to%20Successfully%20Deliver%20Your%20Next%20Transformation%20Initiative.docx)
 - **Analysis Results**: 
-  - **Word Frequency Query Results**: This [(Word Frequency Query Results.xlsx)](https://github.com/adnanthedataanalyst/NVivo_Successful-Transformation-Initiatives-Interview-Analysis/blob/main/Word%20Frequency%20Query%20Results.xlsx) summarizes the key themes identified in the interview, along with the exact words or phrases from the transcript that correspond to each theme and their frequency count.
+  - **Word Frequency Query Results**: This [(Word Frequency Query Results.xlsx)](https://github.com/adnanthedataanalyst/NVivo_Successful-Transformation-Initiatives-Interview-Analysis/blob/main/Word%20Frequency%20Query%20Results.xlsx) summarize the key themes identified in the interview, along with the exact words or phrases from the transcript that correspond to each theme and their frequency count.
   - Visualizations generated from NVivo:
      ![All Qs](https://github.com/adnanthedataanalyst/NVivo_Successful-Transformation-Initiatives-Interview-Analysis/assets/152249280/d1aa33aa-d3ce-44c2-bcff-93c71dc0f1fc)
 - **YouTube Interview**: Access the interview directly on YouTube: [Interview on YouTube](https://www.youtube.com/watch?v=Kz5aoqhhc3k&t=798s)

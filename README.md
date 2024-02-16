@@ -7,7 +7,7 @@ This repository presents the findings of a thematic analysis conducted on an int
 - **Full Transcript**: The complete transcription of the interview is provided in the file named `Interview_Transcript.txt`.
 - **Analysis Results**: 
   - **Word Frequency Query Results**: This file, named `Interview_Theme_Frequencies.xlsx`, summarizes the key themes identified in the interview, along with the exact words or phrases from the transcript that correspond to each theme and their frequency count.
-  - Visualizations generated from NVivo, such as word clouds and word frequency query results, are included in the `Analysis_Results` directory.
+  - Visualizations generated from NVivo:
      ![All Qs](https://github.com/adnanthedataanalyst/NVivo_Successful-Transformation-Initiatives-Interview-Analysis/assets/152249280/d1aa33aa-d3ce-44c2-bcff-93c71dc0f1fc)
 - **YouTube Interview**: Access the interview directly on YouTube: [Interview on YouTube](https://www.youtube.com/watch?v=Kz5aoqhhc3k&t=798s)
 

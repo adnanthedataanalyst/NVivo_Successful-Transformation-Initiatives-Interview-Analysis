@@ -15,7 +15,7 @@ This repository presents the findings of a thematic analysis conducted on an int
 ## Thematic Analysis Methodology:
 The thematic analysis was conducted using NVivo software, which facilitated the identification and categorization of recurring themes within the interview transcript. The analysis focused on two primary questions:
 1. What strategies have you found effective in facilitating agile adoption?
-2. How do you perceive the challenges associated with implementing agile methodologies?
+2. What are common challenges?
 
 ## Insights and Observations:
 - **Effective Strategies for Agile Adoption**: The analysis revealed several key strategies, including change management, iterative feedback and adaptation, stakeholder engagement and communication, team empowerment and ownership, and leadership support and sponsorship. These strategies were consistently emphasized by the interview panel as critical for successful agile adoption.
